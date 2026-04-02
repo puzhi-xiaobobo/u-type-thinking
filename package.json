@@ -1,0 +1,30 @@
+{
+  "name": "u-type-thinking-skill",
+  "version": "1.0.0",
+  "description": "A methodology skill that helps AI agents think deeply before coding using U-Theory",
+  "main": "SKILL.md",
+  "scripts": {
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": [
+    "skill",
+    "ai",
+    "thinking",
+    "methodology",
+    "u-theory",
+    "planning",
+    "efficiency",
+    "presencing",
+    "suspending"
+  ],
+  "author": "普智小博博 (Puzhi Xiaobobo)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/puzhi-xiaobobo/u-type-thinking.git"
+  },
+  "bugs": {
+    "url": "https://github.com/puzhi-xiaobobo/u-type-thinking/issues"
+  },
+  "homepage": "https://github.com/puzhi-xiaobobo/u-type-thinking#readme"
+}
